@@ -1,6 +1,6 @@
 {
-    "name": "Budget Tracker App",
-    "short_name": "Budget Tracker App",
+    "name": "Online-Offline-Budget-Trackers",
+    "short_name": "Online-Offline-Budget-Trackers",
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
     "start_url": "/",
