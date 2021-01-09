@@ -1,5 +1,6 @@
 # Unit 18 PWA Homework: Online-Offline-Budget-Trackers
 ![License](https://img.shields.io/badge/License-APACHE2.0-blue.svg)<br />
+![image](https://user-images.githubusercontent.com/49447293/104106735-57142c80-5285-11eb-81e2-e4eed2afd1a9.png)
 The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
 
 ## User Story
